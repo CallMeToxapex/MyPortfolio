@@ -1,13 +1,13 @@
 
 
-.MainText {
+.Introduction {
     width: 80%;
     margin: 20px auto;
     flex-wrap: wrap;
     color:rgba(81, 81, 81, 0.537);
 }
 
-.CreditsText {
+.ParagraphOne {
     width: 80%;
     margin: 20px auto;
     flex-wrap: wrap;
@@ -16,6 +16,14 @@
     font-weight: bold;
 } 
 
+.ParagraphTwo{
+      width: 80%;
+    margin: 20px auto;
+    flex-wrap: wrap;
+    color:rgba(0, 0, 0, 0.537);
+    font-size: 35px;
+    font-weight: bold;
+}
 h2{
     text-align: center;
     flex-basis: 100%;
