@@ -1,10 +1,10 @@
 html{
-    background: #a3a5a5;
+    background: #ffffff;
 }
 
 body{
     padding-top: 120px;
-    font-family: Georgia;
+    font-family: "Lucida Console", "Courier New", "monospace";
     display: flex;
     flex-direction: column;
     min-height: 100vh;
