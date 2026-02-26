@@ -9,16 +9,14 @@
 
 .ParagraphOne {
     margin: 20px auto;
-    flex-wrap: wrap;
-    color:rgba(0, 0, 0, 0.537);
-    font-weight: bold;
+    font-size: smaller;
+    color:rgb(0, 0, 0);
 } 
 
 .ParagraphTwo{
     margin: 20px auto;
-    flex-wrap: wrap;
-    color:rgba(0, 0, 0, 0.537);
-    font-weight: bold;
+    font-size: smaller;
+    color:rgb(0, 0, 0);
 }
 h2{
     text-align: center;
