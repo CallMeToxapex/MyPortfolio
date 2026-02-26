@@ -8,7 +8,6 @@
 }
 
 .ParagraphOne {
-    width: 80%;
     margin: 20px auto;
     flex-wrap: wrap;
     color:rgba(0, 0, 0, 0.537);
@@ -16,7 +15,6 @@
 } 
 
 .ParagraphTwo{
-      width: 80%;
     margin: 20px auto;
     flex-wrap: wrap;
     color:rgba(0, 0, 0, 0.537);
