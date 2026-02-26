@@ -27,6 +27,12 @@ h2{
     color: rgb(0, 0, 0);
 }
 
+h3{
+    text-align: center;
+    flex-basis: 100%;
+    font-size: small;
+    color: rgb(137, 137, 137);
+}
 
 
 .ParagraphTitle{
