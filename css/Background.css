@@ -1,0 +1,16 @@
+html{
+    background: #cdf6f8;
+}
+
+body{
+    padding-top: 120px;
+    font-family: Georgia;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+main {
+    flex: 1;
+}
