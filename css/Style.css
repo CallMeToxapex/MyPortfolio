@@ -11,14 +11,14 @@
     width: 80%;
     margin: 20px auto;
     flex-wrap: wrap;
-    color:rgba(145, 145, 145, 0.537);
+    color:rgba(0, 0, 0, 0.537);
     font-weight: bold;
 } 
 
 .ParagraphTwo{
     margin: 20px auto;
     flex-wrap: wrap;
-    color:rgba(145, 145, 145, 0.537);
+    color:rgba(0, 0, 0, 0.537);
     font-weight: bold;
 }
 h2{
